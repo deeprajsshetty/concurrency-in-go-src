@@ -15,3 +15,9 @@ For errata and more information, please refer to the book's hub at [[http://kath
 4. One of Go’s mottos is “Share memory by communicating, don’t communicate by sharing memory.”
 5. CSP - Communicating Sequential Processes >> Go built on this principle.
 ```
+
+### Go's Concurrency Building Blocks
+
+1. Goroutines:-
+
+***kjk***

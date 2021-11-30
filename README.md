@@ -18,7 +18,7 @@ For errata and more information, please refer to the book's hub at [[http://kath
 
 ### Go's Concurrency Building Blocks
 
-1. Goroutines:-
+## 1. Goroutines:-
 
 ***Goroutines are unique to GO (though some other languages have a concurrency primitive that is similar).***
 ***They are not OS threads, and they are not exactly green threads--threads that are managed by a language's runtime--they are higher level of abstraction known as coroutines. Corotines are simply concurrent subroutines(functions, closures, or methods in Go) that are nonpreemptive--that is they cannot be interrupted. Instead, coroutines have multiple points throughout which allow for suspension or reentry***
